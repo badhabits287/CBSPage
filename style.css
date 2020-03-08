@@ -7,13 +7,14 @@ body {
 
 body {
   
-  background: #000000;
-  background-size: 100%;
+  background-image: url('https://wallpaperaccess.com/full/784181.jpg');
+  
+  background-size: 100vw;
   font: 20em/2 type;
 }
 
 #s-text {
-  text-shadow: 5px 5px 10px rgb(255, 0, 0);
+  text-shadow: 5px 5px 10px rgb(255, 98, 7);
 }
 .text--line {
   font-size: 0.5em;
@@ -30,7 +31,7 @@ svg {
 
 .text-copy {
   fill: none;
-  stroke: rgb(255, 255, 255);
+  stroke: rgb(255, 0, 0);
   stroke-dasharray: 30% 1%;
   stroke-width: 1px;
   -webkit-animation: stroke-offset 13s infinite linear;
